@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73448188605",
+    "project_id": "bookshopapp-6c0fb",
+    "storage_bucket": "bookshopapp-6c0fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73448188605:android:fc0367e5b6f43ed5b9e5d4",
+        "android_client_info": {
+          "package_name": "com.example.bookshopapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjJPEGyw4vukF9PvZkhFcSo0eFJod6VyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
